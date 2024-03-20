@@ -1,4 +1,8 @@
 # Machine Learning Framework for Detection of Distributed Denial of Service Attack(DDoS)
+
+https://github.com/vishal-khode/Detection-of-Distributed-Denial-of-Service-Attack-DDoS/assets/163964587/d299fac9-1ee0-45b5-9d03-3e97258c33b3
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div id="badges">
@@ -10,6 +14,8 @@
   </a>
 </div>
 </div>
+
+
 <h1 align="center">Hi 👋, I'm Vishal Kshyatriya</h1>
 <h3 align="center">Aspiring Software Developer || Python || Java || C++ || Data Analyst || Web Development || MERN Stack Developer || MySQL || Data Structures & Algorithms</h3>
 
